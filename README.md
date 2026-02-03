@@ -7,7 +7,7 @@ applications.
 
 ## 🛠️ Tech Stack
 
-**Langages**
+- **Langages**
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,7 +20,8 @@ applications.
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 </p>
 
-**Frameworks and Libraries**
+- **Frameworks and Libraries**
+ 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="45"/>
