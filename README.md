@@ -25,13 +25,13 @@ applications.
 - **Frameworks and Libraries**
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="45" style="background-color:black; padding:5px; border-radius:6px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="ReactJs"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="45" style="background-color:black; padding:5px; border-radius:6px;" title="Symfony"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" title="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="AngularJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="NodeJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="SpringBoot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jakartaee/jakartaee-original.svg" width="45" title="Jakarta EE"/>
 </p>
 
 ---
