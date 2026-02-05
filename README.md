@@ -31,7 +31,7 @@ applications.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" title="AngularJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="NodeJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="SpringBoot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jakartaee/jakartaee-original.svg" width="45" title="Jakarta EE"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Jakarta EE"/>
 </p>
 
 ---
